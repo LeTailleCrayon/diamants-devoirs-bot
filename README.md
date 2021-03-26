@@ -5,3 +5,6 @@ Ce bot fait vos devoirs à votre place (enfin presque...) ! Envie d'essayer ? Vo
 Ajout de nouvelles fonctionnalités / Add new functionalities :
 - Compatible avec les devoirs d'Arts Plastiques / Now working with Arts homework
 - Supporte la communication avec l'ENT Skolengo (Testé en Seine-St-Denis uniquement) / Now accepting connection with Skolengo Workspace (tested in Seine-St-Denis only)
+
+#✅ Fonctionnalités / Functionalities
+**DD**
