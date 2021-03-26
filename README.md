@@ -7,4 +7,4 @@ Ajout de nouvelles fonctionnalités / Add new functionalities :
 - Supporte la communication avec l'ENT Skolengo (Testé en Seine-St-Denis uniquement) / Now accepting connection with Skolengo Workspace (tested in Seine-St-Denis only)
 
 #✅ Fonctionnalités / Functionalities
-**DD**
+
