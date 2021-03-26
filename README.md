@@ -28,7 +28,7 @@ Pour commencer, vous aurez besoin de : / For getting started, you'll need :
 - ✅ Python installé sur l'appareil / Python installed on your device
 - ✅ Puppeteer pour envoyer des requêtes "humaines" à l'ENT Skolengo / Puppeteer for sending "humans" requests to Skolengo Workspace
 
-Maintenant, téléchargez le fichier "diamants-devoirs-bot .zip", et décompressez l'archive. A présent, allez dans la matière souhaitée : / Now downloads the file "diamants-devoirs-bot .zip" and unzip the file. After, go into the subject that you want :
+- Maintenant, téléchargez le fichier "diamants-devoirs-bot .zip", et décompressez l'archive. A présent, allez dans la matière souhaitée : / Now downloads the file "diamants-devoirs-bot .zip" and unzip the file. After, go into the subject that you want :
 - Arts-Plastiques : Placez vos fichiers images (dans la limite de 4 fichiers images) nommés (IMG001, IMG002, IMG003, IMG004) dans "/Images (Import here pictures)". L'extension doit être .JPG !!! / Arts, put-in your images files (max. 4 files) named (IMG001, IMG002, IMG003, IMG004) in "/Images (Import here pictures)". Files extensions MUST BE in .JPG !
   -> Ensuite, exécutez le fichier "enttests.py" en tapant "python enttests.py" sans l'interpréteur de commande Windows / The, execute the file "enttests.py" by typing "python enttests.py" in Windows CMD !
   -> Le résultat sera disponible dans le fichier "fiche_info.odt" du répertoire "/scripts" / The results will be available in the file "fiche_info.odt" in "/scripts" path.
